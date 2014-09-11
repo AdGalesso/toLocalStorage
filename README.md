@@ -18,7 +18,7 @@ Just include `toLocalStorage.js`
 API
 -----
 
-  * yourObject.toLocalStorage("setItem", { Key: "yourKey", ExpirationInMinutes: 60 });
+  * $(yourObject).toLocalStorage("setItem", { Key: "yourKey", ExpirationInMinutes: 60 });
   * $.fn.toLocalStorage("getItem", "yourKey")
   * $.fn.toLocalStorage("clear",  "yourKey");
 
