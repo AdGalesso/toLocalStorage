@@ -9,7 +9,7 @@ Easy way to create local storages by setting the keys and the expiration time.
 Usage
 -----
 
-Include `toLocalStorage.js`
+Just include `toLocalStorage.js`
 
 ```html
 <script type="text/javascript" src="lib/toLocalStorage.js"></script>
